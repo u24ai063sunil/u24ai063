@@ -3,10 +3,6 @@
 AI Undergraduate (2nd Year) at SVNIT | Open Source Contributor | GSoC 2026 Aspirant
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=u24ai063sunil&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 🚀 About Me
